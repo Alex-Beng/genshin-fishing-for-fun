@@ -1,4 +1,4 @@
-# genshin-fishing-for-fun
+# genshin-fishing-for-fun(G-triple-F)
 
 Focus on the **throwing the rod**, rather than the whole fishing process, 
 cause it is done with so many other tools. Also, just focus on the **Algorithm** itself, so never mind the how ugly the UI/code/etc. is.
